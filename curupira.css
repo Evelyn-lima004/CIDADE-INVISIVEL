@@ -21,7 +21,7 @@ body {
 
 header {
     background-color: #000000AA;
-    height: 100px;
+    height: 70px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -52,13 +52,14 @@ header {
 
 main {
     font-family: 'Karla', Helvetica, Arial, sans-serif;
-    padding: 20vh 5vw;
+    padding: 20vh 8vw;
     flex-grow: 1;
 }
 
 main h1 {
     font-family: 'Londrina Outline', cursive;
-    font-size: 70px;
+    font-weight: 500;
+    font-size: 100px;
     padding-left: 30px;
     margin-bottom: 5px;
 }
