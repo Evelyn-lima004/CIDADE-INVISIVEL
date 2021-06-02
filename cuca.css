@@ -9,7 +9,7 @@ body {
     width: 100vw;
     height: 100vh;
     background-color: #e9351555;
-    background-image: url("img/curupira.png");
+    background-image: url("img/cuca.png");
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
@@ -103,7 +103,7 @@ main h1 {
 }
 
 main h1::after{
-    content: "Curupira";
+    content: "Cuca";
     position: absolute;
     top: 4px;
     left: 4px;
